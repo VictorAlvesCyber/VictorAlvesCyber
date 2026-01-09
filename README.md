@@ -23,10 +23,7 @@ Tenho grande interesse em **segurança da informação**, ainda em fase inicial 
 ---
 
 ### 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorAlvesCyber&show_icons=true&theme=react&bg_color=0d1117&title_color=005CFF&text_color=FFFFFF&icon_color=005CFF" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAlvesCyber&layout=compact&theme=react&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=005CFF" />
-</p>
+
 
 ---
 
